@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="KEY_ANTERIOR">Previous</string>
+    <string name="KEY_BLOCO_NAME">Block Name</string>
+    <string name="KEY_CAPTURAR">Capture</string>
+    <string name="KEY_DADOS_DE_RESPOSTA_REMOVIDO">Response data removed.</string>
+    <string name="KEY_DATA_CANCELADA">Date canceled!</string>
+    <string name="KEY_DESEJA_REMOVER_A_RESPOSTA_DESSA_QUESTAO">Do you want to remove the answer from this question?</string>
+    <string name="KEY_DE_QUESTAO_E_INEXISTENTE">- question is nonexistent.</string>
+    <string name="KEY_DIGITE_O_TEXTO_DA_LISTA">Enter text from list</string>
+    <string name="KEY_E"> and </string>
+    <string name="KEY_ERRO_VALIDACAO">Error validation</string>
+    <string name="KEY_ESTA_QUESTAO_E_OBRIGATORIA">This question is mandatory.</string>
+    <string name="KEY_FINALIZAR">Finish</string>
+    <string name="KEY_HORA_CANCELADA">Time canceled!</string>
+    <string name="KEY_NAO">No</string>
+    <string name="KEY_NOVO_TEXTO">New Text</string>
+    <string name="KEY_O_NUMERO_DEVERA_ESTAR_ENTRE">The number should be between</string>
+    <string name="KEY_O_NUMERO_MAXIMO_DE_SELECOES_EH">The maximum number of selections is </string>
+    <string name="KEY_O_TAMANHO_DA_FOTO_PRECISA_SER">Photo size must be larger than 0</string>
+    <string name="KEY_O_TIPO">The type -</string>
+    <string name="KEY_PROBLEMA_NA_CAMERA">Camera problem</string>
+    <string name="KEY_PROX">Next</string>
+    <string name="KEY_PROXIMO">Next</string>
+    <string name="KEY_REGISTROS_ENCONTRADOS">") Record (s) found "</string>
+    <string name="KEY_REMOVER_RESPOSTA">Remove reply</string>
+    <string name="KEY_SELECIONE_UMA_DATA">Select a date!</string>
+    <string name="KEY_SELECIONE_UMA_HORA">Select an hour!</string>
+    <string name="KEY_SIM">Yes</string>
+    <string name="KEY_TOPICO">TOPIC</string>
+</resources>

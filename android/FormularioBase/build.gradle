@@ -1,5 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
+apply plugin: 'signing'
 
 android {
 
@@ -30,12 +31,13 @@ android {
             mavenDeployer  {
                 repository(url:  localMavenRepo)
                 pom.groupId = "com.boleuti.android.formulariobase"
-                pom.artifactId = "formulariobase"
-                pom.version = "1.1.0"
+                pom.artifactId = "androidform"
+                pom.version = "1.0.0"
             }
         }
     }
     task install(dependsOn: uploadArchives)
+
 }
 
 buildscript {

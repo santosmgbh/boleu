@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="KEY_ANTERIOR">Anterior</string>
+    <string name="KEY_BLOCO_NAME">Nombre del bloque</string>
+    <string name="KEY_CAPTURAR">Captura</string>
+    <string name="KEY_DADOS_DE_RESPOSTA_REMOVIDO">Los datos de respuesta quitados.</string>
+    <string name="KEY_DATA_CANCELADA">Fecha cancelada!</string>
+    <string name="KEY_DESEJA_REMOVER_A_RESPOSTA_DESSA_QUESTAO">Que desea eliminar la respuesta a esta pregunta?</string>
+    <string name="KEY_DE_QUESTAO_E_INEXISTENTE">- La pregunta es inexistente.</string>
+    <string name="KEY_DIGITE_O_TEXTO_DA_LISTA">Introduzca el texto en la lista</string>
+    <string name="KEY_E"> y </string>
+    <string name="KEY_ERRO_VALIDACAO">Error de validación</string>
+    <string name="KEY_ESTA_QUESTAO_E_OBRIGATORIA">Esta pregunta es obligatoria.</string>
+    <string name="KEY_FINALIZAR">Acabar</string>
+    <string name="KEY_HORA_CANCELADA">Tiempo cancelado!</string>
+    <string name="KEY_NAO">No</string>
+    <string name="KEY_NOVO_TEXTO">Nuevo Texto</string>
+    <string name="KEY_O_NUMERO_DEVERA_ESTAR_ENTRE">El número debe estar entre</string>
+    <string name="KEY_O_NUMERO_MAXIMO_DE_SELECOES_EH">El número máximo de selecciones es </string>
+    <string name="KEY_O_TAMANHO_DA_FOTO_PRECISA_SER">El tamaño de la foto debe ser mayor que 0</string>
+    <string name="KEY_O_TIPO">El tipo -</string>
+    <string name="KEY_PROBLEMA_NA_CAMERA">Problema en la cámara</string>
+    <string name="KEY_PROX">Sig.</string>
+    <string name="KEY_PROXIMO">Siguiente</string>
+    <string name="KEY_REGISTROS_ENCONTRADOS">) registro(s) encontrado(s) </string>
+    <string name="KEY_REMOVER_RESPOSTA">Retire respuesta</string>
+    <string name="KEY_SELECIONE_UMA_DATA">Seleccione una fecha!</string>
+    <string name="KEY_SELECIONE_UMA_HORA">Seleccione una hora!</string>
+    <string name="KEY_SIM">Sí</string>
+    <string name="KEY_TOPICO">TEMA</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+</resources>

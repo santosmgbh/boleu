@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_camera_picker.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_camera_picker.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\edit_find.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\edit_find.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\arrow.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_green_light.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_green_light.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\control_stop.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\control_stop.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_arrow_drop_down_black_24dp.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_arrow_drop_down_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_camera.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_camera.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\back_adress.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\back_adress.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_blue.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_blue.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\spinner_drawable.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\spinner_drawable.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ok.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\ok.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sair1.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\sair1.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\find_white.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\find_white.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_questao_item.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_questao_item.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_white.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_capture.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\video_capture.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\drop_down_shadow.9.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\drop_down_shadow.9.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_green.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_error.png",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_error.png"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_gray.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_gray.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\arrow_shape.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\arrow_shape.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_orange.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_orange.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Projetos\\Github\\android\\FormularioBase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    }
+]
