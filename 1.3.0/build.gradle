@@ -29,7 +29,7 @@ android {
         repositories {
             mavenDeployer  {
                 repository(url:  localMavenRepo)
-                pom.groupId = "com.digicade.android.formulariobase"
+                pom.groupId = "com.boleuti.android.formulariobase"
                 pom.artifactId = "formulariobase"
                 pom.version = "1.1.0"
             }
