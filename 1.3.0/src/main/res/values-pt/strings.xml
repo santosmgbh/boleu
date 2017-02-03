@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="KEY_BLOCO_NAME">Bloco Name</string>
+    <string name="KEY_ANTERIOR">Anterior</string>
+    <string name="KEY_PROXIMO">Próximo</string>
+    <string name="KEY_FINALIZAR">Finalizar</string>
+    <string name="KEY_ERRO_VALIDACAO">Erro validação</string>
+    <string name="KEY_DIGITE_O_TEXTO_DA_LISTA">Digite o texto da lista</string>
+    <string name="KEY_NOVO_TEXTO">New Text</string>
+    <string name="KEY_TOPICO">TOPICO</string>
+    <string name="KEY_CAPTURAR">Capturar</string>
+    <string name="KEY_ESTA_QUESTAO_E_OBRIGATORIA">Esta questão é obrigatória.</string>
+    <string name="KEY_PROBLEMA_NA_CAMERA">Problema na camera</string>
+    <string name="KEY_REMOVER_RESPOSTA">Remover resposta</string>
+    <string name="KEY_DESEJA_REMOVER_A_RESPOSTA_DESSA_QUESTAO">Deseja remover a resposta dessa questão?</string>
+    <string name="KEY_SIM">Sim</string>
+    <string name="KEY_DADOS_DE_RESPOSTA_REMOVIDO">Dados de resposta removido.</string>
+    <string name="KEY_NAO">Não</string>
+    <string name="KEY_SELECIONE_UMA_DATA">Selecione uma data!</string>
+    <string name="KEY_DATA_CANCELADA">Data cancelada!</string>
+    <string name="KEY_SELECIONE_UMA_HORA">Selecione uma hora!</string>
+    <string name="KEY_HORA_CANCELADA">Hora cancelada!</string>
+    <string name="KEY_O_TAMANHO_DA_FOTO_PRECISA_SER">O tamanho da foto precisa ser maior que 0</string>
+    <string name="KEY_O_NUMERO_MAXIMO_DE_SELECOES_EH">"O número máximo de seleções é "</string>
+    <string name="KEY_O_TIPO">O tipo -</string>
+    <string name="KEY_DE_QUESTAO_E_INEXISTENTE">- de questão é inexistente.</string>
+    <string name="KEY_O_NUMERO_DEVERA_ESTAR_ENTRE">"O numero deverá estar entre "</string>
+    <string name="KEY_E">" e "</string>
+    <string name="KEY_PROX">Próx.</string>
+    <string name="KEY_REGISTROS_ENCONTRADOS">") registro(s) encontrado(s) "</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textSize="@dimen/questionario_descricao_opcao"
+    android:textAlignment="center"
+    android:paddingBottom="5dp">
+
+</RadioButton>

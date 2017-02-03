@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--android:orientation="vertical"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:fillViewport="false">-->
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:gravity="bottom">
+
+        <com.digicade.android.formulariobase.nicespinner.NiceSpinner
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:id="@+id/spnTopicos"
+                android:visibility="gone"
+            />
+
+        <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            >
+
+            <RelativeLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/btn_gray"
+                android:weightSum="1">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/KEY_BLOCO_NAME"
+                    android:textColor="@color/white"
+                    android:id="@+id/blocoName"
+                    android:layout_gravity="center" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="00"
+                    android:textColor="@color/white"
+                    android:id="@+id/blocoSize"
+                    android:layout_alignParentRight="true"
+                    android:singleLine="true" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="/"
+                    android:textColor="@color/white"
+                    android:singleLine="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toLeftOf="@+id/blocoSize"
+                    android:layout_toStartOf="@+id/blocoSize"
+                    android:id="@+id/textView" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="00"
+                    android:textColor="@color/white"
+                    android:id="@+id/blocoCurrent"
+                    android:singleLine="true"
+                    android:layout_alignTop="@+id/textView"
+                    android:layout_toLeftOf="@+id/textView"
+                    android:layout_toStartOf="@+id/textView" />
+            </RelativeLayout>
+
+            <LinearLayout android:id="@+id/fragmentFormulario"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:background="#cfcfcf"
+                android:layout_alignParentTop="true"
+                android:layout_weight="1">
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+        <LinearLayout
+              android:id="@+id/button_navegacao"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|bottom"
+            android:animateLayoutChanges="true"
+            android:measureWithLargestChild="true"
+            android:nestedScrollingEnabled="false"
+            android:layout_alignParentBottom="true"
+
+            style="@style/AppTheme.Theme.Digicade.Formulario.BarraNavegacao">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:id="@+id/btnAnterior"
+                android:text="@string/KEY_ANTERIOR"
+                android:layout_weight="1"
+                android:elevation="2dp"
+                style="@style/AppTheme.Theme.Digicade.Formulario.Botao"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:id="@+id/btnProximo"
+                android:text="@string/KEY_PROXIMO"
+                android:layout_weight="1"
+                android:elevation="2dp"
+                style="@style/AppTheme.Theme.Digicade.Formulario.Botao"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:id="@+id/btnFinalizar"
+                android:text="@string/KEY_FINALIZAR"
+                android:layout_weight="1"
+                android:visibility="gone"
+
+                style="@style/AppTheme.Theme.Digicade.Formulario.Botao"
+               />
+
+        </LinearLayout>
+
+        <!--<android.support.v4.view.ViewPager-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/pagerTopicos">-->
+    <!--</android.support.v4.view.ViewPager>-->
+    </LinearLayout>
+<!--</ScrollView>-->
